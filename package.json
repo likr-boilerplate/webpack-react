@@ -1,5 +1,5 @@
 {
-  "name": "@likr/create",
+  "name": "my-app",
   "version": "1.0.0",
   "description": "",
   "scripts": {
@@ -7,11 +7,8 @@
     "start": "webpack-dev-server"
   },
   "keywords": [],
-  "author": "Yosuke Onoue",
+  "author": "Yosuke Onoue <onoue@likr-lab.com>",
   "license": "MIT",
-  "publishConfig": {
-    "access": "public"
-  },
   "devDependencies": {
     "@babel/core": "^7.5.0",
     "@babel/preset-env": "^7.5.0",

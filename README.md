@@ -1,2 +1,3 @@
-# likr-create
+# My App
+
 my app template
