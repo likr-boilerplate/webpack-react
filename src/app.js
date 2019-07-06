@@ -1,6 +1,6 @@
 import React from 'react'
 import { render } from 'react-dom'
-import { Router, Route, Switch, Link } from 'react-router-dom'
+import { Router, Route, Switch } from 'react-router-dom'
 import { createBrowserHistory } from 'history'
 
 import RootPage from './pages/root'
