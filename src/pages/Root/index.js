@@ -1,11 +1,9 @@
 import React from "react";
 
-const RootPage = () => {
+export default function RootPage() {
   return (
     <div>
       <h1>hello</h1>
     </div>
   );
-};
-
-export default RootPage;
+}
